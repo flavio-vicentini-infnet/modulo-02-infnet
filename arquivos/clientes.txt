@@ -1,0 +1,10 @@
+João da Silva,joaodasilva@gmail.com,3
+Maria Santos,mariasantos@gmail.com,6
+Pedro Oliveira,pedrooliveira@gmail.com,4
+Ana Lima,analima@gmail.com,5
+Carlos Pereira,carlospereira@gmail.com,7
+Mariana Souza,marianasouza@gmail.com,2
+Lucas Costa,lucascosta@gmail.com,6
+Isabela Ferreira,isabelaferreira@gmail.com,3
+Felipe Alves,felipealves@gmail.com,5
+Juliana Rodrigues,julianarodrigues@gmail.com,4

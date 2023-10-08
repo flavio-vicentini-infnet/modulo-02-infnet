@@ -1,0 +1,7 @@
+admin,admin@email.com,admin,1
+ricardo ernst,ricardo@appfinance.com,112233,2
+helen camargo,helen@appfinance.com,112233,2
+gabriel moraes,gabriel@appfinance.com,112233,2
+julio silva,julio@appfinance.com,112233,2
+gabriela lima,gabriela@appfinance.com,112233,2
+estavao dorneles,estavao@appfinance.com,112233,2
